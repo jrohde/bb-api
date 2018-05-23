@@ -1,0 +1,24 @@
+{
+    "name": "jrohde/bb-api",
+    "version": "1.0.0",
+    "description": "BB API Helper class",
+    "keywords": ["bb", "api", "class"],
+    "homepage": "https://github.com/jrohde/bb-api-helper-class",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joost Rohde",
+            "email": "j.rohde@nederlandlive.nl",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "BB\\": "src/"
+        }
+    }
+}
