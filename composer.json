@@ -1,6 +1,6 @@
 {
     "name": "jrohde/bb-api",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "BB API Helper class",
     "keywords": ["bb", "api", "class"],
     "homepage": "https://github.com/jrohde/bb-api-helper-class",
