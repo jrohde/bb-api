@@ -1,2 +1,2 @@
-Bull Business API Helper Class
+BB API Helper Class
 ==================
